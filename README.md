@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dhananjaya</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h2 align="center">  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Dhananjaya.;)](https://git.io/typing-svg)
+
+<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhana0313&label=Profile%20views&color=0e75b6&style=flat" alt="dhana0313" /> </p>
 
