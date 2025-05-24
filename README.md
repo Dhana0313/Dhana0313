@@ -1,6 +1,7 @@
-<h2 align="center">  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Dhananjaya.;)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="750">
+</p>
+<h1 align="center">Hi 👋, I'm Dhananjaya</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhana0313&label=Profile%20views&color=0e75b6&style=flat" alt="dhana0313" /> </p>
