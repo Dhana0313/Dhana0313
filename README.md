@@ -43,7 +43,7 @@
     <img
       alt="Dhananjaya's streak"
       src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Dhana0313&theme=algolia"
-      width="400"
+       width="414"
       height="195"
     />
   </a>
@@ -59,5 +59,9 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhana0313&theme=algolia&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhana0313&layout=compact&theme=algolia"
+    width="414"
+    height="195"
+  />  
 </p>
