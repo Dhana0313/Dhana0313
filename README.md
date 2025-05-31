@@ -38,15 +38,25 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<div style="display: flex; gap: 10 px;">
   <a href="https://github.com/Dhana0313">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhana0313&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+    <img
+      alt="Dhananjaya's streak"
+      src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Dhana0313&theme=algolia"
+      width="400"
+      height="195"
+    />
+  </a>
 
   <a href="https://github.com/Dhana0313">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhana0313&layout=compact&langs_count=8&theme=algolia"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Dhana0313&show_icons=true&theme=algolia"
+      width="414"
+      height="195"
+    />
   </a>
-</p>
+</div>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhana0313&theme=algolia&hide_border=true"/>
