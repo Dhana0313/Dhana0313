@@ -60,7 +60,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhana0313&layout=compact&theme=algolia"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhana0313&layout=compact&theme=algolia"
     width="414"
     height="195"
   />  
