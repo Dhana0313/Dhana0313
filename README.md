@@ -1,5 +1,4 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="750">
@@ -11,6 +10,8 @@
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **dananjayajayaweera1262@gmail.com**
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--- stats & Trophy (start) -->
 <div id="user-content-toc">
   <ul align="center">
