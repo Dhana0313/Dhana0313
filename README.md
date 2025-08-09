@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React ,C# and PHP**
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me **dananjayajayaweera1262@gmail.com**
 
 <!--horizontal divider(gradiant)-->
