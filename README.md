@@ -8,11 +8,19 @@
 - 🌱 I’m currently learning **Java**
 
 ## 🌐 Connect with me  
-<p align="center">
-  <a href="mailto:dananjayajayaweera1262@gmail.com"><img src="https://skillicons.dev/icons?i=gmail />
-</a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+<p>
+  <a href="mailto:dananjayajayaweera1262@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/dananjaya-jayaweera/">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
+
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--- stats & Trophy (start) -->
