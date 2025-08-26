@@ -6,8 +6,12 @@
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Java**
-- 📫 How to reach me **dananjayajayaweera1262@gmail.com**
 
+## 🌐 Connect with me  
+<p align="center">
+  <a href="mailto:dananjayajayaweera1262@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+</p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--- stats & Trophy (start) -->
