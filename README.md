@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-## 🌐 Connect with me  
+## 🌐 Connect with me   
 <p>
   <a href="mailto:dananjayajayaweera1262@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
