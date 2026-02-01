@@ -15,9 +15,7 @@
   <a href="https://www.linkedin.com/in/dananjaya-jayaweera/">
      <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/">
-     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  
 </p>
 
 
