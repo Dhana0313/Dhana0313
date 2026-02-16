@@ -5,17 +5,19 @@
 
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Java**
+Here are some ideas to get you started:
 
-## 🌐 Connect with me   
-<p>
-  <a href="mailto:dananjayajayaweera1262@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dananjaya-jayaweera/">
-     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>&nbsp;&nbsp;
-  
+- 🌱 I’m currently learning **Docker,AWS and Github Actions**
+- 👯 I’m looking to collaborate on **Spring Boot based projects**
+- 💬 Ask me about **React and Spring Boot**
+- 📫 How to reach me **dananjayajayaweera12628@gmail.com**
+- ⚡ Fun fact: Coding
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dananjaya-jayaweera001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhananjaya Jayaweera" height="30" width="40" /></a>
+<a href="https://instagram.com/dhananjaya_j_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhananjaya_j_13" height="30" width="40" /></a>
+
 </p>
 
 
@@ -29,11 +31,19 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,tailwind,js,php,java,spring,figma,git,github,react,nextjs,vite,postman,mysql,postgresql,ai,vscode,matlab,octave,linux&perline=14" />
-  </a>
-</p>
+<div align="center">
+
+
+| Title           | Icon                                                                                                      |
+|-----------------|-----------------------------------------------------------------------------------------------------------|
+| Languages       | <img src="https://skillicons.dev/icons?i=js,java,c,cs,php"/>                    |
+| IDE             | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,netsbean"/>                    |
+| Front End       | <img src="https://skillicons.dev/icons?i=react,vite,js,tailwind"/>  |
+| Back End        | <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql"/>             |
+| Others          | <img src="https://skillicons.dev/icons?i=github,git,maven,postman,"/>         |
+| DevOps          | <img src="https://skillicons.dev/icons?i=docker,aws,linux,bash" />        |
+
+</div>
 
 <p align="center">
   <!--- stats (start) -->
