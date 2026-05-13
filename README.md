@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | Title           | Icon                                                                                                      |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
 | Languages       | <img src="https://skillicons.dev/icons?i=js,ts,java,dart,c,cs,php"/>                    |
-| IDE             | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,netsbean,androidstudio"/>                    |
+| IDE             | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio"/>                    |
 | Front End       | <img src="https://skillicons.dev/icons?i=react,vite,angular,next,flutter,tailwind,materialui"/>  |
 | Back End        | <img src="https://skillicons.dev/icons?i=spring,nodejs"/>             |
 | Database        | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongo"/>             |
