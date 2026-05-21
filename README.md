@@ -7,9 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **Microservices**
-- 👯 I’m looking to collaborate on **Spring Boot based projects**
-- 💬 Ask me about **React and Spring Boot**
+- 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me **dananjayajayaweera12628@gmail.com**
 - ⚡ Fun fact: Coding
 
